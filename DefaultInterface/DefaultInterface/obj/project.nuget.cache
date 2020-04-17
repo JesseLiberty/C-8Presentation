@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vuRQRdXflN9a92mNiVnoN4RgHCzRzv3fDoWSi52ZStL29VvdkfyGN6xUlPf1HHErUgrERekzh2ySg8Z8GPfT6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jesse Liberty\\Documents\\GitHub\\C-8Presentation\\DefaultInterface\\DefaultInterface\\DefaultInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jesse Liberty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Jesse Liberty\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jesse Liberty\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Jesse Liberty\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

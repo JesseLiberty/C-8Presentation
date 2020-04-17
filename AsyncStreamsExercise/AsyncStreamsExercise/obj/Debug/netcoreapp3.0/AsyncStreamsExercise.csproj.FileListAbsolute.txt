@@ -1,0 +1,33 @@
+C:/Users/Jesse Liberty/Documents/GitHub/Part2/Answers/CSharpFromNoviceToExpertPart2Exercises/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.exe
+C:/Users/Jesse Liberty/Documents/GitHub/Part2/Answers/CSharpFromNoviceToExpertPart2Exercises/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.deps.json
+C:/Users/Jesse Liberty/Documents/GitHub/Part2/Answers/CSharpFromNoviceToExpertPart2Exercises/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.runtimeconfig.json
+C:/Users/Jesse Liberty/Documents/GitHub/Part2/Answers/CSharpFromNoviceToExpertPart2Exercises/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.runtimeconfig.dev.json
+C:/Users/Jesse Liberty/Documents/GitHub/Part2/Answers/CSharpFromNoviceToExpertPart2Exercises/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.dll
+C:/Users/Jesse Liberty/Documents/GitHub/Part2/Answers/CSharpFromNoviceToExpertPart2Exercises/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.pdb
+C:/Users/Jesse Liberty/Documents/GitHub/Part2/Answers/CSharpFromNoviceToExpertPart2Exercises/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.csprojAssemblyReference.cache
+C:/Users/Jesse Liberty/Documents/GitHub/Part2/Answers/CSharpFromNoviceToExpertPart2Exercises/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.AssemblyInfoInputs.cache
+C:/Users/Jesse Liberty/Documents/GitHub/Part2/Answers/CSharpFromNoviceToExpertPart2Exercises/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.AssemblyInfo.cs
+C:/Users/Jesse Liberty/Documents/GitHub/Part2/Answers/CSharpFromNoviceToExpertPart2Exercises/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.dll
+C:/Users/Jesse Liberty/Documents/GitHub/Part2/Answers/CSharpFromNoviceToExpertPart2Exercises/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.pdb
+C:/Users/Jesse Liberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.exe
+C:/Users/Jesse Liberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.deps.json
+C:/Users/Jesse Liberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.runtimeconfig.json
+C:/Users/Jesse Liberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.runtimeconfig.dev.json
+C:/Users/Jesse Liberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.dll
+C:/Users/Jesse Liberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.pdb
+C:/Users/Jesse Liberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.AssemblyInfoInputs.cache
+C:/Users/Jesse Liberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.AssemblyInfo.cs
+C:/Users/Jesse Liberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.dll
+C:/Users/Jesse Liberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.pdb
+C:/Users/Jesse Liberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.csprojAssemblyReference.cache
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.deps.json
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.runtimeconfig.json
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.runtimeconfig.dev.json
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.dll
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/bin/Debug/netcoreapp3.0/AsyncStreamsExercise.pdb
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.csprojAssemblyReference.cache
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.AssemblyInfoInputs.cache
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.AssemblyInfo.cs
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.dll
+/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.pdb

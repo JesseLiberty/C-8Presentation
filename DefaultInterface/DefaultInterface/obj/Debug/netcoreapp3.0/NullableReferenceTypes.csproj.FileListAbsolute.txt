@@ -1,0 +1,32 @@
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.exe
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.deps.json
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.runtimeconfig.json
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.runtimeconfig.dev.json
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.dll
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.pdb
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.csprojAssemblyReference.cache
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.AssemblyInfo.cs
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.dll
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.pdb
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.exe
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.deps.json
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.runtimeconfig.json
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.runtimeconfig.dev.json
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.dll
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.pdb
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.AssemblyInfo.cs
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.dll
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.pdb
+C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.exe
+C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.deps.json
+C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.runtimeconfig.json
+C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.runtimeconfig.dev.json
+C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.dll
+C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.pdb
+C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.csprojAssemblyReference.cache
+C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.AssemblyInfo.cs
+C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.dll
+C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.pdb

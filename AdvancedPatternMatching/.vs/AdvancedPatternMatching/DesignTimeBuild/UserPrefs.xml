@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1A3CE6EA-7F09-4E50-959E-9AF2F76EFDB7}|Default">
+  <MonoDevelop.Ide.ItemProperties.AsyncStreamsExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AsyncStreamsExercise/Program.cs">
+    <Files>
+      <File FileName="AsyncStreamsExercise/Program.cs" Line="32" Column="1" IsPinned="True" />
+      <File FileName="AsyncStreamsExercise/Program.cs" Line="32" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AsyncStreamsExercise" expanded="True">
+            <Node name="AsyncStreamsExercise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

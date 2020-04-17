@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DA44ADF1-AA88-4145-9A59-F83F6989482C}|Default">
+  <MonoDevelop.Ide.ItemProperties.AdvancedPatternMatching PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdvancedPatternMatching/Program.cs">
+    <Files>
+      <File FileName="AdvancedPatternMatching/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdvancedPatternMatching" expanded="True">
+            <Node name="AdvancedPatternMatching" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

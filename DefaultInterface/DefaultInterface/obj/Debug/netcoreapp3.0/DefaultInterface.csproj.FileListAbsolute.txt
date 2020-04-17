@@ -1,0 +1,11 @@
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\DefaultInterface\DefaultInterface\bin\Debug\netcoreapp3.0\DefaultInterface.exe
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\DefaultInterface\DefaultInterface\bin\Debug\netcoreapp3.0\DefaultInterface.deps.json
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\DefaultInterface\DefaultInterface\bin\Debug\netcoreapp3.0\DefaultInterface.runtimeconfig.json
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\DefaultInterface\DefaultInterface\bin\Debug\netcoreapp3.0\DefaultInterface.runtimeconfig.dev.json
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\DefaultInterface\DefaultInterface\bin\Debug\netcoreapp3.0\DefaultInterface.dll
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\DefaultInterface\DefaultInterface\bin\Debug\netcoreapp3.0\DefaultInterface.pdb
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\DefaultInterface\DefaultInterface\obj\Debug\netcoreapp3.0\DefaultInterface.csprojAssemblyReference.cache
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\DefaultInterface\DefaultInterface\obj\Debug\netcoreapp3.0\DefaultInterface.AssemblyInfoInputs.cache
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\DefaultInterface\DefaultInterface\obj\Debug\netcoreapp3.0\DefaultInterface.AssemblyInfo.cs
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\DefaultInterface\DefaultInterface\obj\Debug\netcoreapp3.0\DefaultInterface.dll
+C:\Users\Jesse Liberty\Dropbox\Presentations\Whats New in C# 8\DefaultInterface\DefaultInterface\obj\Debug\netcoreapp3.0\DefaultInterface.pdb

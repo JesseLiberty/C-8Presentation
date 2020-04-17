@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DefaultInterface/1.0.0": {
+        "runtime": {
+          "DefaultInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DefaultInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

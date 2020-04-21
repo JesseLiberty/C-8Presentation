@@ -1,29 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/AsyncStreamsExercise.csproj": {}
+    "C:\\GitHub\\C-8Presentation\\AsyncStreamsExercise\\AsyncStreamsExercise\\AsyncStreamsExercise.csproj": {}
   },
   "projects": {
-    "/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/AsyncStreamsExercise.csproj": {
+    "C:\\GitHub\\C-8Presentation\\AsyncStreamsExercise\\AsyncStreamsExercise\\AsyncStreamsExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/AsyncStreamsExercise.csproj",
+        "projectUniqueName": "C:\\GitHub\\C-8Presentation\\AsyncStreamsExercise\\AsyncStreamsExercise\\AsyncStreamsExercise.csproj",
         "projectName": "AsyncStreamsExercise",
-        "projectPath": "/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/AsyncStreamsExercise.csproj",
-        "packagesPath": "/Users/jesseliberty/.nuget/packages/",
-        "outputPath": "/Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/",
+        "projectPath": "C:\\GitHub\\C-8Presentation\\AsyncStreamsExercise\\AsyncStreamsExercise\\AsyncStreamsExercise.csproj",
+        "packagesPath": "C:\\Users\\SESA560987\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\C-8Presentation\\AsyncStreamsExercise\\AsyncStreamsExercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "/Users/jesseliberty/.config/NuGet/NuGet.Config"
+          "C:\\Users\\SESA560987\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "https://www.nuget.org/api/v2/": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SECloudServices/_packaging/CloudServicesMainFeed%40Local/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -51,14 +55,18 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
+              "version": "[3.0.1, 3.0.1]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.osx-x64",
-              "version": "[3.0.0, 3.0.0]"
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.3, 3.0.3]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
               "version": "[3.0.0, 3.0.0]"
             }
           ],
@@ -67,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100-preview2-014569/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

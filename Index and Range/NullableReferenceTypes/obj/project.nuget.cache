@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IOksV7lbBzJlUbh0/zrjPzVDlDSdIs6t7pndEGWbB7AvBF3cVqwDhR4slCi7c/iuaMbDAo3vULMFuzBZTBdeag==",
+  "dgSpecHash": "zxb2cZ3ywJ8snW7hbgdkaEHLk71M9cxOYjQL86lzLFNplqXg4mWsuXrvuJjNr9c6WNk1x11V8FHDU3oNTDxXtA==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\C-8Presentation\\NullableReferenceTypes\\NullableReferenceTypes\\NullableReferenceTypes.csproj",
+  "projectFilePath": "C:\\GitHub\\C-8Presentation\\Index and Range\\NullableReferenceTypes\\NullableReferenceTypes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SESA560987\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\SESA560987\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",

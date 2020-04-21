@@ -20,7 +20,7 @@ namespace AsyncStreamsExercise
 			for (; ; )
 			{
 				var random = new Random();
-				var randomNumber = random.Next(1000);
+				var randomNumber = random.Next(2000);
 				await Task.Delay(randomNumber);
 				yield return randomNumber;
 			}

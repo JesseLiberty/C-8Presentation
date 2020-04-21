@@ -20,3 +20,16 @@ C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\NullableReferenceT
 C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.runtimeconfig.dev.json
 C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.dll
 C:\Users\SESA560987\Documents\Presentations\Whats New in C# 8\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.pdb
+C:\GitHub\C-8Presentation\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.exe
+C:\GitHub\C-8Presentation\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.deps.json
+C:\GitHub\C-8Presentation\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.runtimeconfig.json
+C:\GitHub\C-8Presentation\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.runtimeconfig.dev.json
+C:\GitHub\C-8Presentation\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.dll
+C:\GitHub\C-8Presentation\Index and Range\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.pdb
+C:\GitHub\C-8Presentation\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.csprojAssemblyReference.cache
+C:\GitHub\C-8Presentation\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.csproj.CoreCompileInputs.cache
+C:\GitHub\C-8Presentation\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.AssemblyInfoInputs.cache
+C:\GitHub\C-8Presentation\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.AssemblyInfo.cs
+C:\GitHub\C-8Presentation\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.dll
+C:\GitHub\C-8Presentation\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.pdb
+C:\GitHub\C-8Presentation\Index and Range\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.genruntimeconfig.cache

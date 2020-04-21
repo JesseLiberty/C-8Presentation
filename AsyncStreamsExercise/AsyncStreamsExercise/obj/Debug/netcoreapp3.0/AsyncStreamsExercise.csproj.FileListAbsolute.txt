@@ -31,3 +31,16 @@ C:/Users/Jesse Liberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExerc
 /Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.AssemblyInfo.cs
 /Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.dll
 /Users/jesseliberty/Dropbox/Presentations/Whats New in C# 8/AsyncStreamsExercise/AsyncStreamsExercise/obj/Debug/netcoreapp3.0/AsyncStreamsExercise.pdb
+C:\GitHub\C-8Presentation\AsyncStreamsExercise\AsyncStreamsExercise\bin\Debug\netcoreapp3.0\AsyncStreamsExercise.exe
+C:\GitHub\C-8Presentation\AsyncStreamsExercise\AsyncStreamsExercise\bin\Debug\netcoreapp3.0\AsyncStreamsExercise.deps.json
+C:\GitHub\C-8Presentation\AsyncStreamsExercise\AsyncStreamsExercise\bin\Debug\netcoreapp3.0\AsyncStreamsExercise.runtimeconfig.json
+C:\GitHub\C-8Presentation\AsyncStreamsExercise\AsyncStreamsExercise\bin\Debug\netcoreapp3.0\AsyncStreamsExercise.runtimeconfig.dev.json
+C:\GitHub\C-8Presentation\AsyncStreamsExercise\AsyncStreamsExercise\bin\Debug\netcoreapp3.0\AsyncStreamsExercise.dll
+C:\GitHub\C-8Presentation\AsyncStreamsExercise\AsyncStreamsExercise\bin\Debug\netcoreapp3.0\AsyncStreamsExercise.pdb
+C:\GitHub\C-8Presentation\AsyncStreamsExercise\AsyncStreamsExercise\obj\Debug\netcoreapp3.0\AsyncStreamsExercise.csprojAssemblyReference.cache
+C:\GitHub\C-8Presentation\AsyncStreamsExercise\AsyncStreamsExercise\obj\Debug\netcoreapp3.0\AsyncStreamsExercise.csproj.CoreCompileInputs.cache
+C:\GitHub\C-8Presentation\AsyncStreamsExercise\AsyncStreamsExercise\obj\Debug\netcoreapp3.0\AsyncStreamsExercise.AssemblyInfoInputs.cache
+C:\GitHub\C-8Presentation\AsyncStreamsExercise\AsyncStreamsExercise\obj\Debug\netcoreapp3.0\AsyncStreamsExercise.AssemblyInfo.cs
+C:\GitHub\C-8Presentation\AsyncStreamsExercise\AsyncStreamsExercise\obj\Debug\netcoreapp3.0\AsyncStreamsExercise.dll
+C:\GitHub\C-8Presentation\AsyncStreamsExercise\AsyncStreamsExercise\obj\Debug\netcoreapp3.0\AsyncStreamsExercise.pdb
+C:\GitHub\C-8Presentation\AsyncStreamsExercise\AsyncStreamsExercise\obj\Debug\netcoreapp3.0\AsyncStreamsExercise.genruntimeconfig.cache

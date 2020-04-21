@@ -8,25 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jesse Liberty\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\SESA560987\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jesse Liberty\\Documents\\GitHub\\C-8Presentation\\NullableReferenceTypes\\NullableReferenceTypes\\NullableReferenceTypes.csproj",
+      "projectUniqueName": "C:\\GitHub\\C-8Presentation\\NullableReferenceTypes\\NullableReferenceTypes\\NullableReferenceTypes.csproj",
       "projectName": "NullableReferenceTypes",
-      "projectPath": "C:\\Users\\Jesse Liberty\\Documents\\GitHub\\C-8Presentation\\NullableReferenceTypes\\NullableReferenceTypes\\NullableReferenceTypes.csproj",
-      "packagesPath": "C:\\Users\\Jesse Liberty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jesse Liberty\\Documents\\GitHub\\C-8Presentation\\NullableReferenceTypes\\NullableReferenceTypes\\obj\\",
+      "projectPath": "C:\\GitHub\\C-8Presentation\\NullableReferenceTypes\\NullableReferenceTypes\\NullableReferenceTypes.csproj",
+      "packagesPath": "C:\\Users\\SESA560987\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\C-8Presentation\\NullableReferenceTypes\\NullableReferenceTypes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jesse Liberty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SESA560987\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -35,7 +33,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/SECloudServices/_packaging/CloudServicesMainFeed%40Local/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {
@@ -83,7 +82,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

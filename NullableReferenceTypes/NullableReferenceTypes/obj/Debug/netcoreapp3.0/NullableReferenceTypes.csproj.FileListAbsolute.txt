@@ -22,3 +22,15 @@ C:\Users\Jesse Liberty\Documents\GitHub\C-8Presentation\NullableReferenceTypes\N
 C:\Users\Jesse Liberty\Documents\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.pdb
 C:\Users\Jesse Liberty\Documents\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.genruntimeconfig.cache
 C:\Users\Jesse Liberty\Documents\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.csprojAssemblyReference.cache
+C:\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.exe
+C:\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.deps.json
+C:\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.runtimeconfig.json
+C:\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.runtimeconfig.dev.json
+C:\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.dll
+C:\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\netcoreapp3.0\NullableReferenceTypes.pdb
+C:\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.csproj.CoreCompileInputs.cache
+C:\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.AssemblyInfoInputs.cache
+C:\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.AssemblyInfo.cs
+C:\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.dll
+C:\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.pdb
+C:\GitHub\C-8Presentation\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\netcoreapp3.0\NullableReferenceTypes.genruntimeconfig.cache
